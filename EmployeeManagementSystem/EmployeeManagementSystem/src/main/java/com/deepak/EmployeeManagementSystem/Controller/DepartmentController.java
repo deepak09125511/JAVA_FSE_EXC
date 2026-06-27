@@ -1,4 +1,4 @@
-package com.deepak.EmployeeManagementSystem;
+package com.deepak.EmployeeManagementSystem.Controller;
 
 import org.springframework.stereotype.Controller;
 
